@@ -34,6 +34,8 @@ This repository collects **generic, vendor-neutral technical notes** on display 
 
 - [Display interfaces (LVDS / MIPI DSI / eDP / RGB)](notes/display-interfaces.md)
 - [Brightness, power & lifetime budgeting](notes/brightness-and-power.md)
+- [Wide-temperature design (−30 … +80 °C)](notes/wide-temperature-design.md)
+- [Air gap vs full optical bonding](notes/optical-bonding.md)
 - [EN 50155 — system-level view](notes/en50155-basics.md)
 
 ## Contact
@@ -43,7 +45,3 @@ Product & engineering questions: sales@odmlcd.com — [odmlcd.com](https://odmlc
 ## License
 
 Notes in this repository are released under the [MIT License](LICENSE).
-
----
-
-© 2026 RONEN DISPLAY. These notes may be quoted or reused with attribution and a link back to [odmlcd.com](https://odmlcd.com). Please do not republish them as your own original work.
