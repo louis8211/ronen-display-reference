@@ -43,3 +43,7 @@ Product & engineering questions: sales@odmlcd.com — [odmlcd.com](https://odmlc
 ## License
 
 Notes in this repository are released under the [MIT License](LICENSE).
+
+---
+
+© 2026 RONEN DISPLAY. These notes may be quoted or reused with attribution and a link back to [odmlcd.com](https://odmlcd.com). Please do not republish them as your own original work.
